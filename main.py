@@ -49,4 +49,3 @@ if __name__ == '__main__':
         for line in final_csv_string:
             csvfile.write(line)
         csvfile.close()
-

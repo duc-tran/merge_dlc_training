@@ -2,3 +2,5 @@ venv/*
 ven/
 idea/*
 idea/
+.idea/
+.idea/*
